@@ -34,7 +34,7 @@ Pour reproduire mes travaux vous pouvez réaliser les étapes ci-dessous :
 
 ### Exemple d'affichage disponible avec `visualisation.py`:
 
-![carte5](C:\Users\grima\Desktop\carte5.PNG)
+![carte5](data\C25.PNG)
 
-![C100](C:\Users\grima\Desktop\C100.PNG)
+![C100](data\C100.PNG)
 
