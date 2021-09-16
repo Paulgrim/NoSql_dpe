@@ -31,9 +31,7 @@ Pour reproduire mes travaux vous pouvez réaliser les étapes ci-dessous :
 
 ### Exemple d'affichage disponible avec `visualisation.py`:
 
-![C25](data\C25.PNG?raw=true "Densité de logements pour 25km2")
 ![alt text](https://github.com/Paulgrim/NoSql_dpe/blob/main/data/C25.PNG?raw=true)
-
-![C100](data\C100.PNG?raw=true ""Densité de logements pour 100km2")
+![alt text](https://github.com/Paulgrim/NoSql_dpe/blob/main/data/C100.PNG?raw=true)
 
 
